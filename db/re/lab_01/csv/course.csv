@@ -1,0 +1,2001 @@
+Course ID,Name,Teacher ID
+1,Physics 1,532
+2,English 3,304
+3,Computer Basics 2,789
+4,Statistics 3,989
+5,Computer Sciences 7,539
+6,English 8,676
+7,Science 9,335
+8,Psychology 2,491
+9,Law 6,71
+10,Economics 4,268
+11,Geography 4,731
+12,Law 3,407
+13,Sociology 1,787
+14,Arts 8,309
+15,Geography 7,398
+16,Languages 1,872
+17,Philosophy 4,325
+18,Geography 3,464
+19,Mathematics 3,897
+20,Physics 8,929
+21,Physics 4,895
+22,Sociology 5,570
+23,Philosophy 4,755
+24,Mathematics 9,331
+25,History 9,75
+26,Computer Basics 8,468
+27,Sociology 10,385
+28,Languages 4,93
+29,Law 1,172
+30,Geography 4,648
+31,Sociology 7,225
+32,Physics 3,158
+33,Maths 5,426
+34,Statistics 4,553
+35,History 3,423
+36,Logic 8,54
+37,Maths 10,387
+38,Maths 8,31
+39,Physics 9,747
+40,Maths 10,773
+41,Maths 7,619
+42,Psychology 6,517
+43,Mathematics 1,847
+44,Space Sciences 1,199
+45,Logic 9,160
+46,Economics 3,738
+47,Chemistry 8,296
+48,Logic 4,487
+49,Computer Basics 1,679
+50,Science 2,943
+51,Statistics 4,527
+52,Economics 10,16
+53,Chemistry 10,788
+54,Arts 10,145
+55,English 5,942
+56,Statistics 8,270
+57,Sociology 10,770
+58,Languages 1,568
+59,Computer Sciences 5,58
+60,History 4,872
+61,English 7,511
+62,Physics 6,280
+63,Literature 4,843
+64,Chemistry 1,659
+65,Space Sciences 4,728
+66,English 10,204
+67,English 1,958
+68,Physics 8,88
+69,Computer Sciences 10,759
+70,Economics 1,728
+71,History 10,291
+72,Maths 8,13
+73,Mathematics 2,942
+74,Computer Basics 8,146
+75,Science 2,914
+76,Computer Basics 7,918
+77,Sociology 1,976
+78,Arts 7,911
+79,Space Sciences 2,580
+80,Space Sciences 5,733
+81,Arts 10,224
+82,Computer Basics 1,399
+83,Space Sciences 7,248
+84,Sociology 9,876
+85,Physics 8,106
+86,Physics 6,752
+87,Maths 1,589
+88,Psychology 10,986
+89,History 6,830
+90,Space Sciences 3,699
+91,Psychology 9,788
+92,Mathematics 9,950
+93,Chemistry 2,636
+94,Literature 6,403
+95,Economics 1,338
+96,Physics 8,796
+97,Physics 5,937
+98,Logic 2,55
+99,Chemistry 2,488
+100,Law 6,90
+101,Statistics 4,627
+102,Psychology 9,527
+103,Logic 7,338
+104,Computer Sciences 9,355
+105,History 3,631
+106,Economics 6,6
+107,Mathematics 4,2
+108,Chemistry 1,44
+109,Space Sciences 8,509
+110,Philosophy 1,602
+111,Languages 8,756
+112,Computer Sciences 10,707
+113,Arts 8,17
+114,Languages 3,615
+115,Arts 1,419
+116,Arts 1,681
+117,Philosophy 8,336
+118,Literature 3,5
+119,Geography 10,413
+120,Computer Basics 7,193
+121,Chemistry 9,627
+122,Law 8,186
+123,Languages 5,567
+124,Chemistry 5,359
+125,Geography 5,522
+126,Philosophy 6,192
+127,Computer Sciences 5,910
+128,Space Sciences 6,857
+129,Space Sciences 8,399
+130,Economics 7,835
+131,Computer Sciences 1,177
+132,Maths 9,528
+133,Statistics 8,110
+134,English 5,629
+135,Computer Sciences 7,917
+136,Law 4,927
+137,Computer Sciences 5,792
+138,Statistics 6,78
+139,Geography 2,236
+140,Maths 1,994
+141,Physics 6,280
+142,Science 7,633
+143,Sociology 10,401
+144,Computer Sciences 2,752
+145,Philosophy 2,178
+146,Psychology 3,587
+147,Statistics 6,768
+148,Languages 6,685
+149,Computer Sciences 5,577
+150,Literature 3,311
+151,Law 2,657
+152,Space Sciences 6,140
+153,Geography 2,941
+154,Literature 8,68
+155,Philosophy 5,671
+156,Psychology 10,587
+157,Arts 7,932
+158,Space Sciences 1,486
+159,Space Sciences 6,927
+160,History 9,208
+161,History 5,278
+162,Physics 3,758
+163,Geography 1,232
+164,Economics 9,706
+165,Sociology 5,237
+166,Logic 7,94
+167,History 8,321
+168,Geography 10,213
+169,Philosophy 10,341
+170,Mathematics 8,320
+171,Space Sciences 4,300
+172,Languages 4,710
+173,Computer Basics 9,400
+174,Physics 7,207
+175,Space Sciences 5,153
+176,Languages 9,669
+177,Law 9,225
+178,Physics 4,951
+179,Logic 4,180
+180,Geography 3,791
+181,Computer Sciences 1,654
+182,Psychology 10,529
+183,Maths 3,489
+184,Philosophy 10,316
+185,Chemistry 7,770
+186,Physics 6,222
+187,Economics 3,936
+188,Sociology 10,616
+189,Physics 9,598
+190,Logic 4,648
+191,Maths 2,341
+192,Science 7,844
+193,Law 1,852
+194,History 9,664
+195,Space Sciences 1,692
+196,Law 9,450
+197,Economics 1,863
+198,Science 6,660
+199,History 1,594
+200,Science 8,35
+201,Chemistry 1,555
+202,Science 10,670
+203,Physics 6,359
+204,English 8,46
+205,Law 6,42
+206,Law 1,198
+207,Philosophy 10,75
+208,Law 6,345
+209,Psychology 10,280
+210,Statistics 1,462
+211,Chemistry 2,978
+212,Science 8,242
+213,History 8,796
+214,Philosophy 1,632
+215,Languages 7,596
+216,Computer Basics 5,679
+217,Languages 3,311
+218,Space Sciences 2,963
+219,Mathematics 7,60
+220,English 1,402
+221,Science 10,103
+222,Law 3,308
+223,Chemistry 8,101
+224,Languages 4,565
+225,Philosophy 8,83
+226,Philosophy 9,8
+227,Physics 5,144
+228,Space Sciences 3,774
+229,Geography 9,871
+230,Sociology 3,758
+231,Logic 9,839
+232,Physics 4,222
+233,Computer Sciences 9,298
+234,Science 7,211
+235,History 7,949
+236,Sociology 7,23
+237,Statistics 2,559
+238,Chemistry 3,509
+239,Philosophy 5,953
+240,Science 2,19
+241,Mathematics 4,50
+242,Economics 1,539
+243,Computer Sciences 4,758
+244,Space Sciences 6,340
+245,Sociology 7,703
+246,History 4,639
+247,Mathematics 2,354
+248,Logic 10,477
+249,Sociology 4,576
+250,Maths 4,748
+251,Chemistry 8,862
+252,Literature 4,231
+253,Maths 1,247
+254,Science 9,219
+255,Literature 9,805
+256,Maths 7,285
+257,Law 1,840
+258,History 1,610
+259,Maths 4,110
+260,Physics 10,867
+261,English 1,262
+262,Geography 5,804
+263,Languages 5,296
+264,History 8,932
+265,Chemistry 5,441
+266,Languages 6,797
+267,Computer Sciences 2,62
+268,Sociology 8,532
+269,Psychology 10,478
+270,Physics 7,473
+271,English 1,598
+272,Languages 5,644
+273,Economics 10,187
+274,Statistics 3,75
+275,Physics 4,100
+276,Computer Basics 6,888
+277,Arts 2,753
+278,Psychology 4,483
+279,Maths 4,948
+280,Philosophy 5,543
+281,Arts 5,757
+282,Chemistry 2,29
+283,Space Sciences 10,845
+284,Geography 8,319
+285,Statistics 1,396
+286,Computer Basics 2,779
+287,Maths 2,309
+288,English 10,773
+289,Economics 7,848
+290,Psychology 10,183
+291,Arts 6,558
+292,Science 4,141
+293,Economics 8,728
+294,Law 10,672
+295,Physics 2,775
+296,Psychology 3,21
+297,Logic 6,398
+298,Psychology 4,340
+299,Computer Sciences 4,732
+300,Geography 1,288
+301,English 7,3
+302,Physics 8,761
+303,Philosophy 6,714
+304,Mathematics 5,983
+305,Computer Sciences 1,919
+306,Chemistry 9,244
+307,Geography 6,397
+308,Mathematics 1,999
+309,Law 4,961
+310,Space Sciences 8,822
+311,Logic 1,425
+312,Economics 1,19
+313,Philosophy 10,577
+314,History 7,947
+315,Mathematics 3,193
+316,Computer Sciences 2,791
+317,Computer Basics 10,929
+318,Maths 3,175
+319,Geography 2,228
+320,Literature 6,135
+321,Psychology 10,153
+322,Languages 10,171
+323,English 1,364
+324,Philosophy 5,536
+325,Computer Sciences 7,246
+326,Computer Sciences 7,820
+327,Logic 4,291
+328,Geography 2,37
+329,Space Sciences 3,777
+330,Logic 2,780
+331,Literature 1,910
+332,Statistics 5,526
+333,Statistics 3,897
+334,History 7,109
+335,Literature 1,581
+336,Physics 8,304
+337,English 6,945
+338,Sociology 1,279
+339,Literature 5,166
+340,Literature 8,820
+341,Languages 7,361
+342,Economics 3,606
+343,Computer Basics 6,636
+344,Psychology 5,256
+345,Physics 5,146
+346,History 5,150
+347,Sociology 5,476
+348,Computer Basics 2,519
+349,Physics 10,772
+350,Science 5,466
+351,English 2,142
+352,Maths 2,994
+353,Law 7,242
+354,Logic 1,10
+355,Computer Sciences 8,383
+356,Science 4,319
+357,Statistics 6,444
+358,Psychology 8,644
+359,Space Sciences 4,463
+360,Physics 10,495
+361,Mathematics 9,964
+362,Economics 5,282
+363,Geography 1,20
+364,Physics 7,684
+365,Sociology 5,471
+366,Mathematics 5,821
+367,Physics 8,118
+368,Physics 6,966
+369,Chemistry 1,521
+370,Chemistry 2,843
+371,Physics 4,574
+372,Chemistry 1,237
+373,History 5,788
+374,Space Sciences 4,973
+375,Physics 10,137
+376,Geography 7,296
+377,Physics 9,666
+378,English 6,536
+379,Law 1,168
+380,Sociology 4,247
+381,Computer Basics 10,752
+382,Arts 10,321
+383,Chemistry 7,549
+384,Arts 7,362
+385,Arts 2,777
+386,Psychology 9,542
+387,Physics 3,951
+388,Space Sciences 10,965
+389,Economics 8,680
+390,Economics 5,465
+391,Law 7,303
+392,Science 7,172
+393,Philosophy 3,433
+394,Maths 7,817
+395,Science 5,489
+396,Psychology 7,262
+397,Science 2,682
+398,Arts 4,415
+399,Arts 10,792
+400,Geography 2,701
+401,Physics 4,768
+402,English 7,407
+403,Science 5,8
+404,Physics 3,97
+405,Chemistry 3,257
+406,Economics 6,395
+407,Chemistry 10,834
+408,Logic 9,325
+409,Economics 3,437
+410,Computer Basics 10,454
+411,Physics 1,230
+412,Science 4,959
+413,Chemistry 8,564
+414,English 6,598
+415,Economics 4,280
+416,Science 6,812
+417,Psychology 1,287
+418,Law 10,172
+419,Science 3,197
+420,Space Sciences 3,864
+421,Philosophy 7,997
+422,Philosophy 1,317
+423,Computer Sciences 8,621
+424,Economics 1,589
+425,Philosophy 4,28
+426,Sociology 2,444
+427,Mathematics 10,561
+428,Computer Sciences 2,601
+429,Law 4,208
+430,Philosophy 10,907
+431,Physics 7,730
+432,Sociology 8,85
+433,Science 2,256
+434,Law 5,311
+435,Philosophy 10,551
+436,English 2,147
+437,Philosophy 3,61
+438,English 4,939
+439,Space Sciences 6,960
+440,English 9,277
+441,Logic 6,633
+442,Logic 4,167
+443,Geography 1,455
+444,Law 5,524
+445,Maths 10,392
+446,Sociology 5,527
+447,Physics 3,775
+448,Literature 6,398
+449,Mathematics 1,368
+450,English 4,394
+451,Maths 4,512
+452,History 4,812
+453,Space Sciences 3,808
+454,History 4,411
+455,Geography 2,939
+456,Physics 6,324
+457,History 5,709
+458,Science 1,215
+459,Science 5,702
+460,Maths 7,267
+461,Mathematics 1,215
+462,Philosophy 2,410
+463,Literature 9,592
+464,Law 5,513
+465,Physics 6,750
+466,Space Sciences 9,808
+467,Logic 2,520
+468,Geography 7,341
+469,Statistics 2,905
+470,English 3,129
+471,Languages 10,783
+472,Arts 7,356
+473,Maths 4,513
+474,Psychology 8,826
+475,Mathematics 10,635
+476,Science 4,601
+477,Maths 4,631
+478,Physics 1,618
+479,English 8,375
+480,Space Sciences 2,231
+481,History 1,726
+482,Computer Basics 7,477
+483,Geography 4,596
+484,History 5,746
+485,Mathematics 9,339
+486,Languages 1,83
+487,Science 5,835
+488,Mathematics 10,304
+489,Mathematics 2,713
+490,Psychology 7,64
+491,Languages 4,29
+492,Arts 4,818
+493,Space Sciences 7,191
+494,Science 5,407
+495,Economics 8,914
+496,Physics 10,162
+497,Statistics 7,811
+498,Logic 6,555
+499,Space Sciences 1,696
+500,Law 10,197
+501,Philosophy 1,458
+502,Economics 2,883
+503,Law 2,48
+504,Physics 10,740
+505,Sociology 9,275
+506,Languages 1,968
+507,Physics 1,563
+508,Science 6,860
+509,History 9,206
+510,Psychology 7,740
+511,Literature 4,617
+512,Maths 1,397
+513,Chemistry 5,310
+514,Law 10,728
+515,Physics 1,543
+516,Physics 9,54
+517,Law 2,642
+518,Space Sciences 6,4
+519,Literature 10,878
+520,Economics 4,514
+521,Physics 10,149
+522,Economics 3,115
+523,Computer Sciences 3,752
+524,Logic 3,783
+525,Arts 7,766
+526,English 5,99
+527,Sociology 5,657
+528,Computer Sciences 1,376
+529,Philosophy 9,676
+530,English 5,118
+531,English 6,782
+532,English 6,926
+533,Languages 5,426
+534,Economics 2,61
+535,Geography 3,161
+536,Logic 1,275
+537,History 1,324
+538,Physics 1,996
+539,Languages 10,963
+540,Mathematics 1,854
+541,Science 7,776
+542,Science 3,414
+543,Economics 8,139
+544,History 3,819
+545,Sociology 1,390
+546,Sociology 10,852
+547,Computer Basics 2,815
+548,Economics 3,747
+549,Arts 9,765
+550,Arts 4,53
+551,Computer Sciences 1,87
+552,Statistics 6,59
+553,Geography 1,55
+554,Statistics 3,332
+555,Sociology 9,455
+556,Logic 2,284
+557,Sociology 1,681
+558,Space Sciences 7,638
+559,Space Sciences 7,284
+560,Sociology 4,947
+561,Arts 4,831
+562,Literature 2,588
+563,Computer Sciences 6,12
+564,Mathematics 10,245
+565,Psychology 10,799
+566,Logic 3,834
+567,Law 8,192
+568,Geography 8,437
+569,Mathematics 4,27
+570,English 8,649
+571,Logic 1,124
+572,Arts 4,962
+573,Computer Basics 4,942
+574,Law 1,984
+575,Maths 6,358
+576,Maths 1,838
+577,Psychology 7,629
+578,Physics 9,404
+579,Physics 6,271
+580,Logic 6,899
+581,History 7,942
+582,History 10,157
+583,Maths 8,492
+584,Chemistry 5,290
+585,Geography 10,520
+586,Statistics 10,198
+587,Logic 10,243
+588,Science 9,341
+589,Chemistry 10,970
+590,Geography 5,246
+591,Science 6,71
+592,Logic 1,195
+593,Science 7,540
+594,Literature 8,328
+595,Logic 4,310
+596,Sociology 6,9
+597,Chemistry 2,438
+598,Chemistry 2,480
+599,Languages 3,671
+600,Economics 3,84
+601,Computer Sciences 10,813
+602,Maths 10,270
+603,History 4,316
+604,Arts 3,648
+605,Physics 3,319
+606,Space Sciences 4,18
+607,Physics 4,414
+608,Computer Basics 1,717
+609,Psychology 10,345
+610,Sociology 8,477
+611,Computer Basics 7,294
+612,English 6,771
+613,Space Sciences 5,413
+614,Psychology 8,806
+615,Psychology 5,32
+616,Arts 6,686
+617,Computer Sciences 1,980
+618,Sociology 7,600
+619,Mathematics 10,632
+620,English 9,144
+621,Philosophy 2,4
+622,Geography 3,274
+623,Mathematics 7,937
+624,Economics 10,946
+625,Arts 8,326
+626,Sociology 7,397
+627,English 8,401
+628,Geography 9,860
+629,Psychology 10,357
+630,Economics 8,260
+631,Philosophy 5,115
+632,Economics 8,322
+633,Sociology 4,633
+634,Law 4,773
+635,Statistics 6,615
+636,Maths 8,705
+637,History 1,721
+638,Sociology 6,518
+639,Chemistry 6,490
+640,Philosophy 3,766
+641,Statistics 6,332
+642,Computer Basics 8,215
+643,Science 5,884
+644,Geography 3,935
+645,Statistics 3,35
+646,Economics 1,351
+647,Maths 7,195
+648,Sociology 6,970
+649,Philosophy 7,650
+650,Science 6,696
+651,Arts 10,249
+652,Languages 9,702
+653,English 1,24
+654,Statistics 4,75
+655,Logic 4,657
+656,Sociology 10,363
+657,Arts 3,644
+658,Space Sciences 6,410
+659,Statistics 3,163
+660,Logic 9,2
+661,Philosophy 3,430
+662,Maths 4,564
+663,Space Sciences 6,947
+664,Economics 9,289
+665,Philosophy 5,423
+666,English 5,876
+667,Arts 6,429
+668,Sociology 3,808
+669,Philosophy 4,886
+670,Space Sciences 7,344
+671,Economics 2,308
+672,Psychology 1,236
+673,Mathematics 5,61
+674,Logic 3,955
+675,Mathematics 6,273
+676,Languages 8,485
+677,English 4,376
+678,Statistics 3,141
+679,Mathematics 6,278
+680,English 3,527
+681,Chemistry 5,1000
+682,Maths 6,794
+683,Law 10,874
+684,Computer Basics 2,269
+685,Mathematics 2,903
+686,Maths 2,928
+687,English 10,454
+688,Computer Sciences 7,775
+689,Statistics 1,450
+690,Maths 4,27
+691,Philosophy 8,81
+692,Economics 7,853
+693,Physics 5,552
+694,Computer Basics 6,799
+695,Physics 9,259
+696,Philosophy 3,282
+697,Geography 5,257
+698,Mathematics 9,636
+699,Chemistry 9,147
+700,Computer Sciences 8,689
+701,Arts 2,489
+702,Literature 6,277
+703,Physics 2,477
+704,Economics 2,713
+705,Computer Basics 4,159
+706,Science 6,422
+707,Physics 10,399
+708,Logic 7,802
+709,History 2,139
+710,English 3,663
+711,Space Sciences 7,919
+712,Psychology 10,999
+713,English 2,118
+714,Economics 8,590
+715,Literature 10,987
+716,Maths 1,545
+717,Logic 9,496
+718,Mathematics 4,162
+719,Philosophy 8,660
+720,Languages 6,785
+721,Computer Sciences 7,522
+722,Statistics 1,252
+723,Literature 5,765
+724,Sociology 5,183
+725,Mathematics 9,824
+726,Law 4,309
+727,Languages 6,408
+728,Chemistry 10,689
+729,History 3,962
+730,Philosophy 4,402
+731,Science 5,917
+732,Chemistry 9,456
+733,Literature 8,580
+734,Chemistry 7,797
+735,Science 8,697
+736,Science 1,637
+737,Physics 3,558
+738,Languages 5,156
+739,Chemistry 10,715
+740,Logic 9,527
+741,Psychology 4,81
+742,History 1,533
+743,Space Sciences 3,489
+744,Logic 1,717
+745,Computer Sciences 9,468
+746,Space Sciences 10,412
+747,Physics 2,285
+748,Statistics 7,506
+749,Sociology 3,900
+750,Chemistry 8,362
+751,Computer Sciences 3,562
+752,Maths 9,315
+753,Literature 5,84
+754,Languages 3,156
+755,Mathematics 9,463
+756,Maths 6,185
+757,Logic 4,96
+758,Psychology 2,791
+759,Chemistry 2,441
+760,Chemistry 2,368
+761,Computer Basics 6,851
+762,Languages 8,445
+763,History 5,740
+764,Computer Basics 9,887
+765,Law 10,599
+766,Computer Sciences 7,393
+767,Logic 1,413
+768,Economics 9,1
+769,Logic 2,965
+770,Sociology 1,242
+771,Literature 4,242
+772,Science 10,474
+773,History 5,499
+774,Economics 8,355
+775,Sociology 7,202
+776,Space Sciences 3,885
+777,Languages 10,746
+778,History 4,210
+779,Logic 3,718
+780,Computer Sciences 1,598
+781,Physics 1,521
+782,Computer Sciences 7,663
+783,Physics 4,29
+784,Computer Sciences 5,909
+785,Computer Basics 1,38
+786,Geography 10,717
+787,Maths 10,554
+788,Physics 1,986
+789,Logic 5,593
+790,Philosophy 10,256
+791,Physics 6,648
+792,Literature 3,956
+793,Computer Basics 6,463
+794,Mathematics 9,746
+795,Chemistry 10,121
+796,Geography 5,390
+797,English 5,749
+798,Law 8,87
+799,Mathematics 1,82
+800,Economics 7,192
+801,Computer Basics 3,410
+802,Science 4,193
+803,Chemistry 10,969
+804,Economics 5,188
+805,Law 6,434
+806,Languages 5,93
+807,Psychology 8,820
+808,Geography 8,818
+809,Law 9,897
+810,Computer Sciences 9,517
+811,Languages 8,276
+812,Maths 9,945
+813,Maths 3,163
+814,Chemistry 1,690
+815,Logic 6,991
+816,Physics 7,547
+817,Computer Basics 9,868
+818,History 4,409
+819,Chemistry 7,977
+820,Science 8,476
+821,Space Sciences 3,48
+822,Physics 9,795
+823,Geography 3,660
+824,History 5,9
+825,Maths 2,171
+826,Languages 10,971
+827,Law 3,190
+828,Sociology 3,580
+829,Computer Sciences 1,953
+830,Statistics 1,989
+831,Literature 1,413
+832,Psychology 5,904
+833,Philosophy 6,31
+834,Mathematics 2,675
+835,Logic 3,888
+836,Space Sciences 4,213
+837,Science 10,424
+838,History 1,885
+839,Statistics 10,136
+840,Statistics 10,341
+841,Economics 8,750
+842,Logic 4,770
+843,Geography 2,807
+844,Computer Sciences 2,33
+845,Physics 8,965
+846,Arts 10,53
+847,Arts 4,912
+848,Computer Basics 6,916
+849,Philosophy 9,835
+850,History 4,794
+851,Geography 6,497
+852,Space Sciences 10,429
+853,Computer Sciences 8,513
+854,Literature 10,753
+855,Geography 3,964
+856,Science 1,362
+857,Mathematics 6,939
+858,Arts 1,576
+859,Sociology 1,405
+860,Mathematics 5,838
+861,Computer Basics 10,509
+862,Space Sciences 7,960
+863,Space Sciences 10,288
+864,Economics 7,684
+865,Logic 1,753
+866,Statistics 6,461
+867,Literature 1,552
+868,Chemistry 2,755
+869,Psychology 3,857
+870,Space Sciences 2,620
+871,Computer Basics 3,70
+872,Psychology 2,6
+873,Sociology 7,248
+874,Science 3,261
+875,Psychology 1,198
+876,Psychology 6,926
+877,Psychology 1,52
+878,Mathematics 3,925
+879,Computer Basics 1,543
+880,Philosophy 4,332
+881,Languages 1,136
+882,Physics 10,479
+883,English 3,869
+884,Space Sciences 10,516
+885,Philosophy 1,868
+886,Sociology 3,696
+887,Science 3,50
+888,Physics 6,202
+889,Maths 3,924
+890,English 6,786
+891,Arts 7,279
+892,Science 3,420
+893,Science 5,635
+894,Physics 6,139
+895,Chemistry 1,434
+896,Mathematics 6,469
+897,Arts 10,113
+898,Chemistry 6,428
+899,Law 4,472
+900,Economics 9,181
+901,History 9,221
+902,Logic 2,553
+903,English 6,948
+904,English 4,599
+905,Sociology 8,661
+906,Space Sciences 10,870
+907,Law 1,535
+908,Logic 4,677
+909,Arts 2,291
+910,Sociology 6,274
+911,Sociology 6,407
+912,Space Sciences 5,252
+913,Sociology 8,626
+914,Space Sciences 5,842
+915,Space Sciences 9,740
+916,Arts 6,453
+917,English 7,324
+918,Literature 4,768
+919,Space Sciences 8,220
+920,Law 9,665
+921,Philosophy 1,882
+922,Geography 1,475
+923,Physics 6,146
+924,Computer Basics 8,320
+925,Space Sciences 3,166
+926,Physics 1,911
+927,Economics 8,963
+928,Arts 10,891
+929,Physics 6,622
+930,Science 2,340
+931,Physics 9,867
+932,Maths 10,126
+933,Logic 1,653
+934,Arts 10,871
+935,Philosophy 8,748
+936,Computer Sciences 7,723
+937,History 2,814
+938,Mathematics 2,545
+939,Computer Basics 6,18
+940,Philosophy 10,678
+941,Logic 2,422
+942,Science 3,844
+943,Psychology 7,851
+944,Languages 8,25
+945,Computer Basics 10,962
+946,Sociology 7,592
+947,Mathematics 4,766
+948,Space Sciences 4,398
+949,Physics 2,768
+950,Sociology 7,102
+951,Law 9,981
+952,Mathematics 1,696
+953,Sociology 1,522
+954,Statistics 1,853
+955,Philosophy 4,81
+956,Logic 1,324
+957,English 4,615
+958,Geography 5,299
+959,Computer Basics 1,146
+960,Philosophy 8,782
+961,Computer Basics 8,325
+962,Languages 5,647
+963,Chemistry 2,177
+964,Computer Sciences 7,798
+965,Literature 1,481
+966,Mathematics 10,577
+967,Space Sciences 6,546
+968,Geography 10,578
+969,Geography 8,98
+970,Physics 4,713
+971,Philosophy 10,284
+972,Philosophy 4,161
+973,Computer Sciences 2,41
+974,Chemistry 5,547
+975,Arts 9,624
+976,Psychology 5,217
+977,Psychology 5,771
+978,Computer Sciences 10,794
+979,Computer Sciences 3,640
+980,Maths 3,188
+981,Science 2,848
+982,Philosophy 2,589
+983,History 10,442
+984,English 9,834
+985,Computer Basics 3,31
+986,Mathematics 6,608
+987,Literature 7,211
+988,Physics 9,317
+989,Computer Sciences 10,910
+990,Physics 10,495
+991,Economics 7,116
+992,Mathematics 3,731
+993,Literature 3,758
+994,Physics 4,886
+995,Mathematics 3,410
+996,Computer Sciences 2,291
+997,Economics 8,176
+998,Chemistry 5,158
+999,Computer Sciences 8,303
+1000,Chemistry 4,765
+1001,Mathematics 9,900
+1002,Computer Basics 4,692
+1003,History 9,865
+1004,Logic 5,664
+1005,Economics 9,254
+1006,Chemistry 3,562
+1007,Computer Basics 1,6
+1008,Sociology 5,537
+1009,Chemistry 3,188
+1010,Computer Sciences 5,882
+1011,Science 5,195
+1012,Computer Basics 1,997
+1013,Logic 4,793
+1014,Science 10,800
+1015,Psychology 4,31
+1016,Space Sciences 9,143
+1017,Mathematics 1,476
+1018,Psychology 6,12
+1019,Law 1,680
+1020,Maths 2,177
+1021,Computer Basics 10,507
+1022,Law 8,95
+1023,Physics 7,637
+1024,Physics 3,405
+1025,Computer Basics 4,608
+1026,Arts 10,411
+1027,Mathematics 6,337
+1028,English 6,604
+1029,Languages 8,843
+1030,Chemistry 3,778
+1031,Statistics 5,626
+1032,Science 2,406
+1033,Languages 8,760
+1034,Mathematics 7,681
+1035,Computer Sciences 1,788
+1036,Physics 5,384
+1037,Physics 2,309
+1038,History 4,710
+1039,English 9,256
+1040,English 3,826
+1041,Psychology 3,836
+1042,Languages 2,828
+1043,Chemistry 9,181
+1044,Physics 7,186
+1045,Law 1,295
+1046,Chemistry 6,390
+1047,Geography 2,216
+1048,Physics 9,243
+1049,Maths 10,781
+1050,Economics 8,590
+1051,Physics 8,243
+1052,English 10,25
+1053,Computer Basics 7,215
+1054,History 10,661
+1055,Philosophy 4,652
+1056,Languages 2,11
+1057,Logic 8,514
+1058,Logic 2,260
+1059,Economics 10,858
+1060,Philosophy 9,60
+1061,Mathematics 9,66
+1062,Sociology 1,669
+1063,Sociology 10,722
+1064,History 1,375
+1065,Literature 3,252
+1066,Arts 5,580
+1067,English 5,326
+1068,Computer Sciences 9,47
+1069,Economics 9,913
+1070,Geography 10,310
+1071,Philosophy 3,813
+1072,Statistics 8,671
+1073,Logic 6,90
+1074,English 9,156
+1075,Physics 4,2
+1076,Physics 2,413
+1077,Maths 6,284
+1078,Chemistry 10,20
+1079,Languages 7,613
+1080,Maths 8,908
+1081,Arts 2,608
+1082,Psychology 2,343
+1083,Computer Basics 3,954
+1084,Science 5,182
+1085,Computer Basics 1,34
+1086,Chemistry 2,316
+1087,History 3,716
+1088,Statistics 1,863
+1089,English 5,625
+1090,Computer Sciences 10,508
+1091,Philosophy 6,883
+1092,Geography 9,136
+1093,Logic 4,555
+1094,Physics 7,623
+1095,Literature 5,764
+1096,Logic 10,349
+1097,Languages 3,504
+1098,Mathematics 8,494
+1099,Space Sciences 9,331
+1100,Statistics 6,897
+1101,Languages 4,805
+1102,Maths 8,284
+1103,History 7,691
+1104,Science 5,993
+1105,Sociology 1,634
+1106,Science 1,537
+1107,Computer Basics 7,610
+1108,Philosophy 8,354
+1109,Arts 2,473
+1110,Literature 3,751
+1111,Space Sciences 3,940
+1112,Law 8,904
+1113,Chemistry 3,63
+1114,Languages 3,595
+1115,Logic 3,912
+1116,Science 3,16
+1117,Law 3,746
+1118,Psychology 7,564
+1119,Literature 1,114
+1120,Geography 9,489
+1121,Arts 8,64
+1122,Literature 2,498
+1123,Chemistry 1,932
+1124,Physics 5,873
+1125,Space Sciences 8,899
+1126,Maths 8,425
+1127,Space Sciences 3,306
+1128,Computer Basics 7,477
+1129,Logic 5,909
+1130,Computer Basics 3,480
+1131,Sociology 1,551
+1132,Law 3,965
+1133,Law 10,24
+1134,Economics 2,717
+1135,English 9,382
+1136,Sociology 7,413
+1137,Statistics 1,490
+1138,Space Sciences 5,911
+1139,Computer Basics 10,845
+1140,Science 9,819
+1141,Languages 4,769
+1142,Arts 7,887
+1143,Mathematics 8,307
+1144,Computer Sciences 10,629
+1145,Physics 5,45
+1146,Mathematics 2,396
+1147,Science 2,904
+1148,Psychology 9,48
+1149,Physics 8,409
+1150,Computer Sciences 2,563
+1151,Science 1,644
+1152,Psychology 8,918
+1153,Logic 2,59
+1154,History 8,19
+1155,Statistics 5,585
+1156,Literature 8,497
+1157,Science 10,141
+1158,Logic 1,757
+1159,Space Sciences 2,247
+1160,Science 7,591
+1161,Geography 3,868
+1162,Languages 5,831
+1163,Languages 8,334
+1164,History 3,612
+1165,Philosophy 1,765
+1166,Psychology 4,559
+1167,English 6,191
+1168,Psychology 7,639
+1169,Literature 4,681
+1170,Science 9,972
+1171,Space Sciences 5,897
+1172,Geography 7,484
+1173,Maths 10,24
+1174,Mathematics 3,992
+1175,English 6,105
+1176,Literature 10,778
+1177,Logic 4,515
+1178,Geography 10,96
+1179,History 1,662
+1180,Literature 8,979
+1181,Science 2,845
+1182,Law 1,1000
+1183,Law 1,613
+1184,Physics 10,451
+1185,Psychology 2,529
+1186,Physics 10,146
+1187,Computer Basics 5,211
+1188,Law 10,280
+1189,Sociology 3,731
+1190,Arts 10,658
+1191,Physics 5,577
+1192,Computer Basics 9,487
+1193,Philosophy 10,900
+1194,Sociology 10,70
+1195,Literature 3,234
+1196,Arts 9,699
+1197,Psychology 8,799
+1198,Physics 2,943
+1199,Physics 9,301
+1200,Economics 3,566
+1201,Science 9,747
+1202,Economics 1,35
+1203,Sociology 8,803
+1204,Statistics 8,404
+1205,Sociology 5,683
+1206,Languages 1,667
+1207,Computer Sciences 8,834
+1208,Science 10,631
+1209,Chemistry 8,416
+1210,Economics 4,202
+1211,Mathematics 3,330
+1212,Chemistry 9,208
+1213,Literature 2,430
+1214,English 9,370
+1215,Space Sciences 3,961
+1216,Logic 6,94
+1217,Statistics 5,212
+1218,Physics 5,446
+1219,Computer Basics 3,89
+1220,Economics 9,847
+1221,Statistics 1,425
+1222,Logic 7,695
+1223,Computer Sciences 1,944
+1224,Logic 7,844
+1225,Languages 7,431
+1226,English 6,395
+1227,Mathematics 9,646
+1228,Philosophy 7,606
+1229,Mathematics 2,806
+1230,Languages 6,390
+1231,Philosophy 1,123
+1232,Arts 1,144
+1233,Law 5,443
+1234,Languages 6,185
+1235,Physics 5,253
+1236,Science 6,351
+1237,Law 3,523
+1238,English 9,112
+1239,Computer Sciences 7,360
+1240,Science 7,970
+1241,Literature 1,863
+1242,Arts 5,188
+1243,Geography 9,448
+1244,Chemistry 7,90
+1245,Languages 9,989
+1246,Geography 2,489
+1247,Psychology 4,430
+1248,Science 10,612
+1249,Mathematics 1,68
+1250,Physics 10,203
+1251,Arts 3,989
+1252,Law 6,342
+1253,Literature 9,849
+1254,Maths 1,99
+1255,Physics 3,975
+1256,Languages 8,992
+1257,Space Sciences 4,5
+1258,Geography 6,410
+1259,Law 1,402
+1260,Space Sciences 8,922
+1261,Law 2,837
+1262,History 6,273
+1263,Psychology 10,633
+1264,Physics 3,164
+1265,Maths 3,376
+1266,History 3,81
+1267,Languages 3,435
+1268,Literature 3,423
+1269,Computer Basics 5,963
+1270,Law 7,232
+1271,English 10,293
+1272,Computer Sciences 3,485
+1273,Computer Basics 9,97
+1274,Logic 1,697
+1275,Law 9,235
+1276,Mathematics 2,760
+1277,Physics 8,313
+1278,Physics 5,818
+1279,Sociology 7,919
+1280,Sociology 4,252
+1281,Sociology 4,238
+1282,Psychology 9,614
+1283,Computer Sciences 7,60
+1284,Science 2,257
+1285,Psychology 6,952
+1286,Computer Sciences 2,981
+1287,Arts 10,583
+1288,Law 10,113
+1289,Physics 9,655
+1290,History 10,615
+1291,Geography 10,599
+1292,Psychology 6,665
+1293,Psychology 7,250
+1294,Mathematics 1,809
+1295,Chemistry 8,972
+1296,Physics 9,70
+1297,Arts 8,831
+1298,Law 8,685
+1299,Languages 7,265
+1300,History 9,936
+1301,Computer Sciences 1,450
+1302,Computer Sciences 6,944
+1303,History 3,373
+1304,Mathematics 4,587
+1305,Mathematics 4,252
+1306,Economics 8,952
+1307,Economics 5,102
+1308,Computer Basics 7,822
+1309,Languages 1,728
+1310,Chemistry 8,313
+1311,Philosophy 2,759
+1312,Computer Basics 5,823
+1313,Logic 3,332
+1314,Law 4,38
+1315,Law 5,418
+1316,Psychology 9,482
+1317,Maths 2,908
+1318,English 2,98
+1319,Arts 5,145
+1320,Sociology 9,179
+1321,Mathematics 5,668
+1322,Psychology 9,596
+1323,Science 9,511
+1324,Literature 2,845
+1325,Science 3,936
+1326,Chemistry 10,698
+1327,Statistics 1,342
+1328,Languages 2,215
+1329,History 6,953
+1330,Chemistry 9,263
+1331,Geography 1,38
+1332,Economics 6,571
+1333,Logic 10,875
+1334,Science 5,421
+1335,Physics 10,103
+1336,Science 5,638
+1337,Mathematics 4,176
+1338,Arts 8,830
+1339,Law 9,101
+1340,Languages 8,156
+1341,Computer Sciences 7,265
+1342,Computer Basics 5,508
+1343,Space Sciences 7,283
+1344,Computer Basics 2,846
+1345,Psychology 1,631
+1346,Physics 4,245
+1347,Literature 2,531
+1348,Mathematics 1,764
+1349,Literature 5,651
+1350,Law 7,803
+1351,Sociology 9,778
+1352,Economics 7,351
+1353,Chemistry 10,410
+1354,Physics 3,650
+1355,Literature 1,570
+1356,Languages 4,522
+1357,English 6,309
+1358,Economics 2,726
+1359,Physics 3,474
+1360,Psychology 5,596
+1361,Arts 2,383
+1362,Law 6,343
+1363,Psychology 7,415
+1364,Sociology 3,886
+1365,Computer Sciences 6,370
+1366,Physics 6,11
+1367,Computer Basics 5,731
+1368,Law 9,788
+1369,History 3,32
+1370,Sociology 5,180
+1371,Chemistry 8,560
+1372,Psychology 7,853
+1373,Computer Basics 3,783
+1374,Philosophy 2,88
+1375,History 6,532
+1376,Arts 7,787
+1377,Literature 5,540
+1378,Physics 10,532
+1379,Mathematics 10,359
+1380,Law 9,274
+1381,Chemistry 10,236
+1382,Arts 4,123
+1383,Economics 2,563
+1384,Arts 8,769
+1385,History 8,926
+1386,Maths 4,683
+1387,Psychology 9,600
+1388,Science 8,523
+1389,Physics 3,639
+1390,Literature 6,195
+1391,Literature 6,401
+1392,Philosophy 10,58
+1393,Physics 7,413
+1394,Law 6,130
+1395,Geography 10,61
+1396,Literature 3,282
+1397,Statistics 2,513
+1398,Philosophy 5,226
+1399,Law 3,156
+1400,Geography 10,226
+1401,Maths 3,198
+1402,Chemistry 9,353
+1403,Science 4,337
+1404,Chemistry 3,567
+1405,Psychology 3,648
+1406,Space Sciences 6,85
+1407,Science 5,636
+1408,Sociology 1,196
+1409,Chemistry 2,251
+1410,Psychology 7,564
+1411,Philosophy 6,630
+1412,Geography 10,279
+1413,Literature 9,873
+1414,Mathematics 5,34
+1415,Economics 5,579
+1416,Maths 5,551
+1417,Geography 6,654
+1418,Space Sciences 8,480
+1419,English 2,932
+1420,Mathematics 1,542
+1421,Computer Basics 2,94
+1422,Arts 5,564
+1423,Literature 9,146
+1424,Maths 4,233
+1425,Science 6,935
+1426,Science 10,679
+1427,Mathematics 6,54
+1428,Law 8,317
+1429,Philosophy 2,45
+1430,Maths 6,89
+1431,Maths 10,276
+1432,Geography 6,927
+1433,Psychology 9,577
+1434,Psychology 7,199
+1435,Space Sciences 6,157
+1436,Mathematics 4,220
+1437,Computer Sciences 1,934
+1438,Physics 7,932
+1439,Science 6,921
+1440,Physics 7,145
+1441,Physics 7,317
+1442,Computer Basics 9,970
+1443,Statistics 2,856
+1444,Literature 5,937
+1445,English 2,449
+1446,Sociology 6,825
+1447,Economics 5,966
+1448,Science 6,891
+1449,Statistics 8,379
+1450,Law 10,863
+1451,Mathematics 1,536
+1452,Philosophy 3,753
+1453,Languages 4,860
+1454,Maths 9,535
+1455,Mathematics 4,236
+1456,Philosophy 2,875
+1457,Physics 6,362
+1458,Maths 5,768
+1459,Physics 6,300
+1460,Literature 4,593
+1461,Science 3,948
+1462,Law 7,175
+1463,Chemistry 5,117
+1464,Chemistry 3,799
+1465,Law 5,206
+1466,Statistics 6,206
+1467,Literature 1,873
+1468,Mathematics 5,448
+1469,Sociology 6,116
+1470,Law 3,501
+1471,Space Sciences 8,985
+1472,Physics 5,162
+1473,Philosophy 7,749
+1474,Geography 10,898
+1475,Maths 1,599
+1476,Logic 4,204
+1477,Philosophy 5,280
+1478,Maths 6,499
+1479,Maths 5,752
+1480,Languages 9,841
+1481,Psychology 8,702
+1482,Mathematics 10,67
+1483,Languages 7,125
+1484,Mathematics 6,198
+1485,Law 10,57
+1486,English 9,20
+1487,Languages 6,36
+1488,Computer Basics 4,479
+1489,Psychology 8,364
+1490,Science 9,100
+1491,Mathematics 5,453
+1492,Geography 6,407
+1493,Languages 3,866
+1494,Statistics 6,776
+1495,Economics 7,983
+1496,Computer Basics 1,969
+1497,Mathematics 1,711
+1498,History 7,745
+1499,Literature 4,788
+1500,Space Sciences 8,473
+1501,Physics 3,705
+1502,Physics 6,319
+1503,Maths 10,333
+1504,Computer Basics 2,130
+1505,History 5,114
+1506,English 9,198
+1507,Literature 8,469
+1508,Computer Sciences 9,873
+1509,Space Sciences 4,75
+1510,English 3,464
+1511,Computer Sciences 7,142
+1512,Psychology 9,40
+1513,Economics 4,48
+1514,Economics 10,936
+1515,Economics 9,115
+1516,History 6,565
+1517,Maths 8,290
+1518,Law 9,676
+1519,Logic 1,327
+1520,Philosophy 10,787
+1521,History 4,112
+1522,Economics 6,65
+1523,Economics 5,70
+1524,Physics 6,633
+1525,Geography 7,174
+1526,Law 3,389
+1527,Chemistry 8,630
+1528,English 6,848
+1529,Space Sciences 3,245
+1530,Mathematics 7,662
+1531,Geography 1,276
+1532,Law 5,403
+1533,Statistics 6,157
+1534,History 10,155
+1535,Psychology 5,476
+1536,Arts 4,106
+1537,Chemistry 6,333
+1538,Psychology 4,267
+1539,Arts 10,991
+1540,Logic 4,817
+1541,Economics 3,887
+1542,Philosophy 10,201
+1543,Arts 6,912
+1544,Computer Basics 7,283
+1545,Computer Basics 4,9
+1546,Geography 9,369
+1547,Chemistry 1,893
+1548,Economics 10,149
+1549,Literature 1,660
+1550,Computer Basics 2,925
+1551,Psychology 4,380
+1552,Economics 10,622
+1553,Arts 4,437
+1554,Arts 5,996
+1555,Logic 6,728
+1556,Physics 10,245
+1557,Physics 1,887
+1558,Law 1,253
+1559,Languages 6,995
+1560,Sociology 2,851
+1561,Maths 2,448
+1562,Law 10,312
+1563,Computer Basics 8,127
+1564,English 10,559
+1565,Literature 9,388
+1566,Physics 6,601
+1567,History 1,681
+1568,Law 7,426
+1569,Languages 3,529
+1570,Philosophy 5,895
+1571,Science 6,237
+1572,Mathematics 2,438
+1573,English 4,36
+1574,Arts 2,395
+1575,Sociology 1,896
+1576,Logic 5,45
+1577,Chemistry 7,17
+1578,Mathematics 1,449
+1579,Chemistry 10,694
+1580,Sociology 9,215
+1581,Mathematics 6,3
+1582,Logic 4,505
+1583,Languages 9,286
+1584,Science 9,537
+1585,Science 8,635
+1586,History 9,279
+1587,Physics 4,507
+1588,History 1,901
+1589,History 6,426
+1590,Science 6,273
+1591,Literature 5,651
+1592,History 9,244
+1593,English 7,168
+1594,Arts 3,552
+1595,English 4,542
+1596,Languages 4,865
+1597,Space Sciences 7,506
+1598,Arts 6,926
+1599,Computer Basics 7,854
+1600,Literature 1,51
+1601,Logic 1,375
+1602,Geography 5,481
+1603,Languages 3,234
+1604,Statistics 1,562
+1605,History 5,632
+1606,Logic 5,524
+1607,Physics 4,514
+1608,Geography 5,197
+1609,Maths 8,740
+1610,Statistics 3,35
+1611,Space Sciences 2,703
+1612,Statistics 9,428
+1613,Computer Basics 10,568
+1614,English 10,550
+1615,Sociology 1,731
+1616,Geography 6,767
+1617,Languages 10,765
+1618,Arts 1,598
+1619,Philosophy 3,874
+1620,Arts 10,969
+1621,Sociology 10,188
+1622,Languages 8,578
+1623,Psychology 10,192
+1624,Psychology 3,421
+1625,Arts 2,615
+1626,Science 2,333
+1627,Logic 4,507
+1628,Science 10,926
+1629,Computer Basics 10,244
+1630,Law 6,228
+1631,Logic 10,543
+1632,English 5,831
+1633,Sociology 8,111
+1634,Philosophy 9,743
+1635,Space Sciences 8,503
+1636,Economics 2,935
+1637,Logic 6,717
+1638,English 1,473
+1639,Space Sciences 10,472
+1640,Computer Basics 4,659
+1641,Law 6,380
+1642,Mathematics 7,783
+1643,Law 7,970
+1644,Economics 10,396
+1645,Computer Sciences 5,867
+1646,Physics 10,847
+1647,Literature 9,539
+1648,Literature 3,137
+1649,Languages 5,358
+1650,Arts 4,599
+1651,Psychology 9,766
+1652,History 4,622
+1653,Sociology 3,113
+1654,Mathematics 3,494
+1655,Geography 5,703
+1656,Space Sciences 9,459
+1657,Computer Sciences 2,367
+1658,English 9,190
+1659,Economics 9,734
+1660,History 5,107
+1661,Science 10,257
+1662,Space Sciences 3,209
+1663,Sociology 1,878
+1664,Logic 2,550
+1665,Maths 2,326
+1666,Mathematics 2,444
+1667,Physics 6,132
+1668,Sociology 1,278
+1669,Physics 7,957
+1670,Economics 7,676
+1671,Psychology 4,125
+1672,History 1,81
+1673,Mathematics 2,521
+1674,Philosophy 8,206
+1675,Computer Sciences 4,556
+1676,Physics 8,428
+1677,Science 1,88
+1678,Literature 6,271
+1679,Statistics 1,980
+1680,Literature 5,713
+1681,Chemistry 1,257
+1682,Geography 10,82
+1683,Economics 10,754
+1684,Computer Sciences 4,702
+1685,English 2,327
+1686,Law 7,552
+1687,Computer Basics 4,36
+1688,Philosophy 6,50
+1689,English 5,388
+1690,History 9,642
+1691,History 6,705
+1692,Philosophy 3,15
+1693,Law 2,549
+1694,Mathematics 6,207
+1695,Arts 1,187
+1696,Computer Sciences 10,798
+1697,Sociology 10,915
+1698,English 7,6
+1699,Economics 4,43
+1700,Economics 3,722
+1701,Physics 2,797
+1702,Maths 3,200
+1703,History 9,129
+1704,English 9,980
+1705,Computer Sciences 5,714
+1706,Mathematics 2,766
+1707,Science 7,867
+1708,Sociology 6,221
+1709,Geography 1,698
+1710,Chemistry 5,594
+1711,Logic 5,151
+1712,Physics 8,300
+1713,English 5,500
+1714,Psychology 6,179
+1715,Space Sciences 6,579
+1716,Law 2,568
+1717,Economics 5,699
+1718,Philosophy 9,444
+1719,Computer Sciences 1,578
+1720,Science 6,323
+1721,Economics 9,543
+1722,Statistics 9,475
+1723,Psychology 8,626
+1724,English 5,583
+1725,Maths 7,281
+1726,Mathematics 1,839
+1727,Psychology 10,274
+1728,Logic 3,349
+1729,Languages 1,798
+1730,English 8,113
+1731,Logic 1,78
+1732,Science 6,101
+1733,Computer Basics 7,765
+1734,Computer Basics 9,990
+1735,Chemistry 4,951
+1736,Psychology 6,415
+1737,Space Sciences 8,37
+1738,English 4,975
+1739,Physics 3,57
+1740,Psychology 9,317
+1741,Science 10,930
+1742,Science 5,743
+1743,Arts 2,857
+1744,Psychology 6,52
+1745,Philosophy 5,668
+1746,Physics 5,169
+1747,Economics 7,143
+1748,Chemistry 10,432
+1749,Law 10,202
+1750,Arts 2,851
+1751,Physics 2,485
+1752,Logic 5,467
+1753,Arts 9,568
+1754,Maths 5,721
+1755,Mathematics 10,186
+1756,Sociology 8,847
+1757,Mathematics 5,708
+1758,Statistics 8,568
+1759,Geography 2,605
+1760,Mathematics 6,778
+1761,Chemistry 2,619
+1762,Economics 5,587
+1763,Psychology 2,990
+1764,Languages 9,238
+1765,Computer Basics 5,154
+1766,English 1,181
+1767,Literature 1,100
+1768,Literature 9,901
+1769,Geography 2,866
+1770,Science 5,879
+1771,Arts 8,915
+1772,Sociology 6,67
+1773,Literature 2,566
+1774,History 10,481
+1775,Mathematics 9,503
+1776,Languages 4,467
+1777,Law 3,78
+1778,Geography 4,184
+1779,Maths 1,188
+1780,Literature 2,494
+1781,Arts 2,389
+1782,Economics 10,502
+1783,Economics 4,968
+1784,Economics 4,930
+1785,Law 6,84
+1786,English 8,5
+1787,Law 9,59
+1788,Statistics 5,461
+1789,Languages 8,298
+1790,Languages 2,45
+1791,History 8,362
+1792,Philosophy 2,631
+1793,Computer Basics 1,495
+1794,Computer Basics 5,922
+1795,English 10,119
+1796,English 7,130
+1797,Arts 4,503
+1798,Science 8,519
+1799,Physics 7,645
+1800,Sociology 8,207
+1801,Psychology 6,764
+1802,Statistics 3,802
+1803,Physics 2,571
+1804,Computer Basics 7,85
+1805,Computer Basics 6,745
+1806,Law 10,65
+1807,Computer Sciences 4,921
+1808,Maths 7,412
+1809,Computer Sciences 7,823
+1810,Science 8,495
+1811,Literature 4,943
+1812,Chemistry 10,365
+1813,Arts 5,159
+1814,Languages 8,615
+1815,Mathematics 7,155
+1816,Science 6,576
+1817,English 8,789
+1818,Physics 1,965
+1819,Geography 10,469
+1820,Sociology 6,934
+1821,Physics 7,987
+1822,Mathematics 9,165
+1823,Sociology 8,473
+1824,Psychology 6,621
+1825,Chemistry 2,691
+1826,Computer Basics 1,410
+1827,English 9,483
+1828,Physics 7,606
+1829,Computer Basics 9,900
+1830,Statistics 10,420
+1831,Chemistry 1,154
+1832,Economics 10,758
+1833,History 3,981
+1834,Philosophy 7,432
+1835,Law 3,660
+1836,Physics 4,720
+1837,Law 4,431
+1838,Economics 10,689
+1839,Computer Basics 3,353
+1840,Statistics 9,945
+1841,Chemistry 10,889
+1842,Logic 1,482
+1843,Space Sciences 10,629
+1844,Geography 4,364
+1845,Geography 6,525
+1846,Economics 7,912
+1847,Computer Basics 9,129
+1848,Computer Sciences 3,98
+1849,Economics 3,100
+1850,Computer Basics 3,240
+1851,Arts 5,320
+1852,Science 6,239
+1853,Literature 7,941
+1854,Maths 5,650
+1855,Sociology 5,105
+1856,Computer Basics 7,653
+1857,Space Sciences 10,333
+1858,Chemistry 6,512
+1859,Economics 5,864
+1860,Space Sciences 6,438
+1861,Literature 6,895
+1862,Languages 5,993
+1863,Psychology 1,58
+1864,Geography 6,888
+1865,Computer Sciences 9,221
+1866,Law 8,835
+1867,Science 2,65
+1868,Chemistry 2,871
+1869,Physics 5,580
+1870,Physics 3,577
+1871,Physics 6,495
+1872,Languages 4,77
+1873,Philosophy 7,127
+1874,Maths 10,741
+1875,Geography 7,560
+1876,Space Sciences 10,879
+1877,Logic 3,516
+1878,Literature 6,960
+1879,Computer Sciences 7,98
+1880,Literature 1,910
+1881,Logic 10,726
+1882,Maths 2,984
+1883,Statistics 3,732
+1884,Logic 2,58
+1885,Maths 2,373
+1886,Mathematics 6,18
+1887,Chemistry 7,611
+1888,Computer Sciences 3,394
+1889,Law 4,659
+1890,Computer Basics 8,511
+1891,Sociology 8,255
+1892,History 4,39
+1893,Physics 9,649
+1894,Chemistry 10,58
+1895,Geography 9,39
+1896,Computer Sciences 3,733
+1897,Geography 1,603
+1898,Physics 4,446
+1899,Space Sciences 5,408
+1900,History 8,732
+1901,History 6,979
+1902,Space Sciences 1,585
+1903,Psychology 8,853
+1904,Arts 7,990
+1905,Economics 3,236
+1906,English 8,864
+1907,Psychology 5,843
+1908,Logic 10,87
+1909,Computer Sciences 10,59
+1910,Logic 4,341
+1911,Physics 10,441
+1912,Literature 6,971
+1913,Arts 4,544
+1914,Law 1,362
+1915,English 9,941
+1916,Space Sciences 4,166
+1917,Geography 6,728
+1918,Languages 1,419
+1919,Psychology 4,646
+1920,Computer Sciences 7,104
+1921,English 1,389
+1922,Computer Sciences 7,443
+1923,Law 3,882
+1924,Chemistry 3,464
+1925,Mathematics 8,683
+1926,Geography 1,373
+1927,Space Sciences 8,683
+1928,Chemistry 6,540
+1929,Chemistry 8,675
+1930,Computer Basics 1,798
+1931,Psychology 3,806
+1932,Space Sciences 2,146
+1933,Philosophy 3,169
+1934,Computer Sciences 1,915
+1935,English 6,864
+1936,Psychology 6,536
+1937,Physics 8,869
+1938,Mathematics 5,971
+1939,Arts 7,255
+1940,Geography 2,48
+1941,Mathematics 7,671
+1942,Computer Sciences 8,435
+1943,Arts 7,952
+1944,Philosophy 3,141
+1945,Languages 1,748
+1946,Physics 7,50
+1947,Sociology 2,540
+1948,Mathematics 5,506
+1949,Computer Basics 2,926
+1950,Law 1,960
+1951,Statistics 1,948
+1952,Arts 7,207
+1953,Physics 1,699
+1954,Physics 10,390
+1955,Statistics 1,720
+1956,Chemistry 4,416
+1957,Sociology 4,604
+1958,Chemistry 1,421
+1959,Languages 8,374
+1960,Physics 8,636
+1961,Economics 6,5
+1962,Economics 8,421
+1963,Computer Sciences 5,914
+1964,Computer Sciences 6,142
+1965,Sociology 1,198
+1966,Physics 8,682
+1967,Physics 9,822
+1968,Statistics 6,569
+1969,Physics 2,200
+1970,Languages 9,83
+1971,Mathematics 4,224
+1972,Maths 6,222
+1973,Physics 10,346
+1974,Chemistry 3,770
+1975,Computer Basics 2,307
+1976,Statistics 7,921
+1977,Computer Basics 9,69
+1978,Languages 3,298
+1979,Computer Basics 1,858
+1980,Geography 6,969
+1981,Science 2,575
+1982,Sociology 8,113
+1983,Computer Sciences 1,54
+1984,Maths 6,164
+1985,History 3,510
+1986,Computer Basics 3,776
+1987,Chemistry 4,14
+1988,Arts 2,406
+1989,Sociology 8,146
+1990,English 3,350
+1991,Computer Basics 7,512
+1992,History 6,424
+1993,Computer Sciences 2,774
+1994,Psychology 2,279
+1995,Chemistry 3,810
+1996,Law 8,377
+1997,Space Sciences 7,452
+1998,Philosophy 2,793
+1999,Maths 8,140
+2000,Computer Sciences 3,453
