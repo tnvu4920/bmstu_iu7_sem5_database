@@ -1,1 +1,2 @@
-# course-project_computer-graphics
+# bmstu_iu7_semester5
+Subject: Database
